@@ -1,0 +1,14 @@
+{
+  "save_id": 4341257296,
+  "player_id": 1,
+  "timestamp": "2026-05-24 15:26:57",
+  "game_state": {
+    "player_id": 1,
+    "name": "Arlan",
+    "hp": 100,
+    "max_hp": 100,
+    "attack": 15,
+    "level": 1,
+    "gold": 0
+  }
+}
